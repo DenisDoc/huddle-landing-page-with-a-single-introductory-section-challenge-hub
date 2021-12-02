@@ -239,7 +239,6 @@ a{
     .media{
         justify-content: right;
         margin-bottom: 2rem;
-    
     }
     .media-icon{
         width: 3rem;
@@ -257,4 +256,14 @@ a{
 @media  screen and (min-width:1400px){
     .heading{
         margin-top:4rem;
+    }
+    .media{
+        margin-right: 10rem;
+    }
+    .hero-img{
+        margin-left: 6rem;
+    }
+    .logo{
+        margin-left: 6rem;
+    }
 }
